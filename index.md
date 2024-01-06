@@ -7,8 +7,6 @@ profile_picture:
 
 <p>
   Hello, I'm lost.
+  Ok looks like it is updating.
 </p>
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
