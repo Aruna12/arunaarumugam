@@ -21,7 +21,7 @@ Test post 1
 
 <br />
 
-
+<!--
 #### Table of Contents
 1. [Part 1](#part-1)
 2. [Part 2](#part-2)
@@ -57,3 +57,4 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 ##### FOOTNOTES
 
 [^1]: This is a note!
+-->
