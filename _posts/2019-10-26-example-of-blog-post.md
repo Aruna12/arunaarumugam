@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post example"
+title:  "Post example 1"
 date:   2019-10-26 10:00:40
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/Banner.jpg
@@ -13,9 +13,11 @@ og_image: /assets/img/content/post-example/Banner.jpg
 This is an example of blog post.
 Picture by [Bethany Legg](https://unsplash.com/@bkotynski).
 
-Test post 1111111111111
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum[^1].
+
+Test post 1
 
 <br />
 
