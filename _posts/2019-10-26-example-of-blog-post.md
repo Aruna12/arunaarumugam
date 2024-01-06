@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Post example"
-date:   2019-10-26 10:00:40
+date:   2024-01-06 10:00:40
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <br />
 
-
+<!--
 #### Table of Contents
 1. [Part 1](#part-1)
 2. [Part 2](#part-2)
@@ -53,3 +53,5 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 ##### FOOTNOTES
 
 [^1]: This is a note!
+
+-->
