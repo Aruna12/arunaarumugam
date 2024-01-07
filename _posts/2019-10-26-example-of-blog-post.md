@@ -64,7 +64,11 @@ Some methods of implementing such a system is through the creation of collaborat
 A customer’s time is extremely valuable. Throughout a customer’s journey with an organization, product or service, there will be multiple points where a customer is in need of support. We can collect the type of service calls, interactions with chatbots, the number of times a customer has visited the support page or the visits made to the store for offline support. This will help in analyzing the where a customer needs the most support.
 
 We can use regression methods to identify patterns in these factors to predict when an issue might occur or how to reduce the number of complaints of a customer. This would enhance customer experience and also reduce churn of the customer.
+</p>
 
+<br />
+
+<p>
 The 5 applications mentioned above is only an overview of few ways of applying machine learning to customer data. There are plenty of applications and alternatives to machine learning for each of the applications mentioned above but these are some of the common applications being used by businesses in various domains to make data driven customer centric decisions to enhance customer experience and improve revenue.
 </p>
 
