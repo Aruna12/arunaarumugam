@@ -6,7 +6,10 @@ profile_picture:
 ---
 
 <p>
-  Hey there! I'm Aruna, a Data Scientist, passionate about working with data to aid business decisions. I've been on the data journey for about 10 years now. With an academic background of Bachelors in Computer Science and Masters in Business Analytics, I have a diverse skillsets.
-  kk
+  Hey there! I'm a Data Scientist based in Dubai. I am passionate about solving problems in Marketing and customer analytics. 
+  
+  Outside of work, I like to paint, read and try new food. If you would like to connect with me, I'm always happy to have a chat!
+  
+  
 </p>
 
