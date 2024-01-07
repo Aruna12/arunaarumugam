@@ -4,4 +4,3 @@ title: Blog
 slug: /blog
 ---
 
-<br />
