@@ -3,10 +3,10 @@ layout: post
 title:  "5 Application of machine learning in customer analytics"
 date:   2023-07-21 10:00:00
 blurb: "A look at an example post using Bay Jekyll theme."
-og_image: /assets/img/content/post-example/Banner.jpg
+og_image: /assets/img/content/post-example/post_1.jpg
 ---
 
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/post-example/post_1.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 

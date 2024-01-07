@@ -3,10 +3,10 @@ layout: post
 title:  "Designing and Evaluating an A/B test"
 date:   2023-07-27 10:00:40
 blurb: "A look at an example post using Bay Jekyll theme."
-og_image: /assets/img/content/post-example/Banner.jpg
+og_image: /assets/img/content/post-example/post_2.png
 ---
 
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/post-example/post_2.png" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />
 
