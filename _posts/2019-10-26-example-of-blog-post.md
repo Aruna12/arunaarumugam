@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "5 Application of machine learning in customer analytics"
-date:   2023-07-21 10:00:00
+date:   2021-07-21 10:00:00
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/post_1.jpg
 ---
