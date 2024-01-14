@@ -41,7 +41,7 @@ J(X,Y) = 6/10 = 60%
 <br />
 <br />
 </p>
-<center> <img src="{{ "/assets/img/content/post-example/post_6_1.webp" | absolute_url }}" alt="bay" class="post-pic"/> <center />
+<center> <img src="{{ "/assets/img/content/post-example/post_6_1.webp" | absolute_url }}" alt="bay" class="post-pic"/> </center>
 <br />
 <br />
 <p>Therefore, the percentage of respondents who either recalled your ad or purchased your product is 60% post being exposed to the advertisement.</p>
