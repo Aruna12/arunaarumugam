@@ -20,6 +20,7 @@ og_image: /assets/img/content/post-example/post_5.webp
 <p>The total adstock is the media invest at week 1 followed by summing up the week 2 investment with the adstocked media at week 1 and so on.</p>
 
 <center><img src="{{ "/assets/img/content/post-example/post_5_1.webp" | absolute_url }}" alt="bay" class="post-pic"/></center>
+<br /><br />
 
 <img src="{{ "/assets/img/content/post-example/post_5_2.png" | absolute_url }}" alt="bay" class="post-pic"/>
 
@@ -29,4 +30,4 @@ og_image: /assets/img/content/post-example/post_5.webp
 
 <p>The adstock in other words is also called as the simple decay effect. The simple decay percentage is:</p>
 
-<img src="{{ "/assets/img/content/post-example/post_5_4.webp" | absolute_url }}" alt="bay" class="post-pic"/>
+<center><img src="{{ "/assets/img/content/post-example/post_5_4.webp" | absolute_url }}" alt="bay" class="post-pic"/></center>
