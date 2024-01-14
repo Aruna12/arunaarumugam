@@ -39,7 +39,8 @@ X is the set of customer ids from the test group, who have contributed towards t
 <br />
 J(X,Y) = 6/10 = 60%
 <br />
-<img src="{{ "/assets/img/content/post-example/post_6_1.webp" | absolute_url }}" alt="bay" class="post-pic"/> 
+<br />
+<center><img src="{{ "/assets/img/content/post-example/post_6_1.webp" | absolute_url }}" alt="bay" class="post-pic"/><center />
 <br />
 <br />
 Therefore, the percentage of respondents who either recalled your ad or purchased your product is 60% post being exposed to the advertisement.
