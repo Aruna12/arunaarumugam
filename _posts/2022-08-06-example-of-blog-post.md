@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adstocking Media Input With Python"
-date:   2023-08-06 10:00:40
+date:   2022-08-06 10:00:40
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/post_5.webp
 ---
