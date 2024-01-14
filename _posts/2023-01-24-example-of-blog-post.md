@@ -5,8 +5,9 @@ date:   2023-01-24 10:00:40
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/post_5.webp
 ---
+<!--
+<img src="{{ "/assets/img/content/post-example/post_6.webp" | absolute_url }}" alt="bay" class="post-pic"/>  -->
 
-#<img src="{{ "/assets/img/content/post-example/post_6.webp" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 
 <p>The Jaccard similarity index, also known as the similarity coefficient, compared members for two set o see which members are shared and which are distinct. The measure is a similarity of two sets that range from a 0% to 100%. Higher the percentage, higher the similarity.</p>
@@ -27,16 +28,21 @@ og_image: /assets/img/content/post-example/post_5.webp
 X = {1, 3, 4, 6, 8, 9}
 <br />
 Y = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+<br /> 
 <br />
 X is the set of customer ids from the test group, who have contributed towards the KPI post ad exposure. Y is the set of all customer ids in the test group.
 <br />
+<br />
 <b>Jaccard Index = (the customer id in X and Y) / (the customer id in X or Y) * 100 </b>
 <br />
-J(X,Y) = |X∩Y| / |X∪Y|
+<br />
+<b>J(X,Y) = |X∩Y| / |X∪Y|</b>
+<br />
 <br />
 J(X,Y) = 6/10 = 60%
 <br />
-Therefore, the percentage of respondents who either recalled you ad or purchased your product is 60% post being exposed to the advertisement.
+<br />
+Therefore, the percentage of respondents who either recalled your ad or purchased your product is 60% post being exposed to the advertisement.
 </p>
 
 <h2>Limitations</h2>
