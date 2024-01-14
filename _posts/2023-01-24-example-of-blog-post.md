@@ -8,8 +8,6 @@ og_image: /assets/img/content/post-example/post_5.webp
 <!--
 <img src="{{ "/assets/img/content/post-example/post_6.webp" | absolute_url }}" alt="bay" class="post-pic"/>  -->
 
-<br />
-
 <p>The Jaccard similarity index, also known as the similarity coefficient, compared members for two set o see which members are shared and which are distinct. The measure is a similarity of two sets that range from a 0% to 100%. Higher the percentage, higher the similarity.</p>
 
 <h2>Incremental Lift</h2>
@@ -40,6 +38,8 @@ X is the set of customer ids from the test group, who have contributed towards t
 <br />
 <br />
 J(X,Y) = 6/10 = 60%
+<br />
+<img src="{{ "/assets/img/content/post-example/post_6_1.webp" | absolute_url }}" alt="bay" class="post-pic"/> 
 <br />
 <br />
 Therefore, the percentage of respondents who either recalled your ad or purchased your product is 60% post being exposed to the advertisement.
