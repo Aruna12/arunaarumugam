@@ -40,11 +40,11 @@ X is the set of customer ids from the test group, who have contributed towards t
 J(X,Y) = 6/10 = 60%
 <br />
 <br />
-<center><img src="{{ "/assets/img/content/post-example/post_6_1.webp" | absolute_url }}" alt="bay" class="post-pic"/><center />
-<br />
-<br />
-Therefore, the percentage of respondents who either recalled your ad or purchased your product is 60% post being exposed to the advertisement.
 </p>
+<center> <img src="{{ "/assets/img/content/post-example/post_6_1.webp" | absolute_url }}" alt="bay" class="post-pic"/> <center />
+<br />
+<br />
+<p>Therefore, the percentage of respondents who either recalled your ad or purchased your product is 60% post being exposed to the advertisement.</p>
 
 <h2>Limitations</h2>
 <p>Although the above method is quick and easy to interpret, it can be extremely sensitive to small sample sizes or missing observations, giving misleading results.</p>
