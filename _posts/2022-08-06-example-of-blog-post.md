@@ -19,7 +19,7 @@ og_image: /assets/img/content/post-example/post_5.webp
 <h2>Simple Adstock Effect</h2>
 <p>The total adstock is the media invest at week 1 followed by summing up the week 2 investment with the adstocked media at week 1 and so on.</p>
 
-<img src="{{ "/assets/img/content/post-example/post_5_1.webp" | absolute_url }}" alt="bay" class="post-pic"/>
+<center><img src="{{ "/assets/img/content/post-example/post_5_1.webp" | absolute_url }}" alt="bay" class="post-pic"/></center>
 
 <img src="{{ "/assets/img/content/post-example/post_5_2.png" | absolute_url }}" alt="bay" class="post-pic"/>
 
