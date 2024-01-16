@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Contextual Advertising: A Cookieless Era"
-date:   2024-01-1 10:00:00
+date:   2024-01-16 10:00:00
 blurb: "A look at an example post using Bay Jekyll theme."
 og_image: /assets/img/content/post-example/post_1.jpg
 ---
@@ -37,8 +37,8 @@ The concept of contextual advertising, an advertising model that has been around
 
 <h2>Few examples of ad campaigns using contextual advertising</h2>
 
-<center><img src="{{ "/assets/img/content/post-example/post_7_2.webp" | absolute_url }}" alt="bay" class="post-pic"/></center>
-<center><img src="{{ "/assets/img/content/post-example/post_7_3.webp" | absolute_url }}" alt="bay" class="post-pic"/></center>
-<center><img src="{{ "/assets/img/content/post-example/post_7_4.webp" | absolute_url }}" alt="bay" class="post-pic"/></center>
+<center><img src="{{ "/assets/img/content/post-example/post_7_2.webp" | absolute_url }}" alt="bay" class="post-pic"/></center><br />
+<center><img src="{{ "/assets/img/content/post-example/post_7_3.webp" | absolute_url }}" alt="bay" class="post-pic"/></center><br />
+<center><img src="{{ "/assets/img/content/post-example/post_7_4.webp" | absolute_url }}" alt="bay" class="post-pic"/></center><br />
 
 <p>In conclusion, the shift towards a cookieless era is driving the resurgence and evolution of contextual advertising. This model, which matches ads to the content of the website they’re placed on, provides a solution that respects user privacy while still enabling targeted advertising. As algorithms become increasingly sophisticated, the relevance and effectiveness of contextual advertising are likely to improve, making it an essential tool in the marketer’s toolbox. Whether you’re a marketer or a consumer, it’s clear that contextual advertising is set to play a significant role in the future of digital advertising.</p>
